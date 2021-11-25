@@ -1,12 +1,15 @@
 # SQL
-SQL notebooks
+SQL tutorials notebooks
+
+## bigquery_kaggle_SQL.ipynb
+Kaggle [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) course
 
 ## skypro_SQL.ipynb
-[Видео от Skypro](https://www.youtube.com/watch?v=1Jr6XpWUQMo)
+[Skypro Video](https://www.youtube.com/watch?v=1Jr6XpWUQMo)
 
-Подключение к PostgreSQL и Clickhouse + RFM анализ
+Connect to PostgreSQL and Clickhouse + RFM analysis
 
 ## skypro_SQL_homework.ipynb
 
-Домашнее задание от Skypro + ABC-анализ
+Skypro Home work + ABC-analysis
 
